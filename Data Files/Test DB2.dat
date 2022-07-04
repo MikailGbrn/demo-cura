@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Test DB2</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>4057b632-c8fc-413a-9356-e7aff893f503</dataFileGUID>
+   <dataSourceUrl>jdbc:mysql://localhost:3306/tes_dbkatalon</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>cm9vdA==</password>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>true</value>
+      </entry>
+   </properties>
+   <query>SELECT * FROM tb_user</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>root</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
